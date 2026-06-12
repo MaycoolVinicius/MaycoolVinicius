@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Maycool Vinicius
 
-Estudante de Análise e Desenvolvimento de Sistemas pela **Unicesumar**, com foco em desenvolvimento back-end com Java e Spring Boot. Apaixonado por construir soluções reais e aprender boas práticas de engenharia de software.
+Estudante de ADS pela Unicesumar, movido por construir soluções completas do back-end em Java e Spring Boot ao front-end em Angular, passando por bancos de dados como PostgreSQL e MySQL.
 
 ---
 
@@ -20,15 +20,21 @@ Estudante de Análise e Desenvolvimento de Sistemas pela **Unicesumar**, com foc
 
 ## 📌 Projetos em destaque
 
-### 🎓 [Sistema de Gestão de Alunos](https://github.com/MaycoolVinicius/Sistema-de-Gest-o-de-Alunos)
-Sistema acadêmico desenvolvido em Java com Programação Orientada a Objetos para gerenciamento de alunos, professores e cursos.
+### 💰 [Gestão Financeira — Full Stack](https://gestao-financeira-front-three.vercel.app/login) 🟢 Online
 
-`Java` `POO` `Console App`
+Aplicação full stack para controle de finanças pessoais. Back-end com API REST em Java + Spring Boot, front-end em Angular, banco de dados PostgreSQL e deploy em produção.
 
-### 🔢 [Jogo do Número Secreto](https://github.com/MaycoolVinicius/jogo-do-numero-secreto)
-Jogo interativo de adivinhação de números com lógica implementada em Java.
+`Java` `Spring Boot` `Angular` `PostgreSQL` `REST API` `Full Stack` `Deploy`
 
-`Java` `Lógica` `Iniciante`
+🔗 **[Ver aplicação ao vivo](https://gestao-financeira-front-three.vercel.app/login)**
+
+---
+
+### 📚 Biblioteca Web — UniCesumar 🟡 Localhost
+
+Sistema de gerenciamento de acervo bibliográfico desenvolvido como projeto acadêmico para a disciplina de Desenvolvimento Web com Java. Permite cadastro, listagem e exclusão de livros com validação de ISBN-10 e ISBN-13, usando interface dupla em JSP e JSF.
+
+`Java` `Jakarta Servlet` `JSP` `JSF` `Apache Tomcat` `Maven` `MVC`
 
 ---
 
