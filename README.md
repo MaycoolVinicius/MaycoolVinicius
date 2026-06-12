@@ -10,6 +10,7 @@ Estudante de ADS pela Unicesumar, movido por construir soluções completas do b
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +33,7 @@ Aplicação full stack para controle de finanças pessoais. Back-end com API RES
 
 ### 📚 Biblioteca Web — UniCesumar 🟡 Localhost
 
-Sistema de gerenciamento de acervo bibliográfico desenvolvido como projeto acadêmico para a disciplina de Desenvolvimento Web com Java. Permite cadastro, listagem e exclusão de livros com validação de ISBN-10 e ISBN-13, usando interface dupla em JSP e JSF.
+Sistema de gerenciamento de acervo bibliográfico desenvolvido como projeto acadêmico. Cadastro, listagem e exclusão de livros com validação de ISBN-10 e ISBN-13, interface dupla em JSP e JSF.
 
 `Java` `Jakarta Servlet` `JSP` `JSF` `Apache Tomcat` `Maven` `MVC`
 
@@ -41,6 +42,7 @@ Sistema de gerenciamento de acervo bibliográfico desenvolvido como projeto acad
 ## 📊 GitHub Stats
 
 ![Maycool's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaycoolVinicius&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaycoolVinicius&layout=compact)
 
 ---
 
