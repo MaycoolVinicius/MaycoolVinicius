@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Maycool Vinicius
+# Maycool Vinicius
 
 Estudante de ADS pela Unicesumar, movido por construir soluções completas do back-end em Java e Spring Boot ao front-end em Angular, passando por bancos de dados como PostgreSQL e MySQL.
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
